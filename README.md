@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @PushpanshuRanjanSingh<br>👀 I’m interested in Java SpringBoot & Flutter<br>🌱 I’m currently learning Flutter and Salesforce<br>📫 email: pushpanshuranjansingh@gmail.com
+👋 Hi, I’m @PushpanshuRanjanSingh<br>👀 I’m interested in Java SpringBoot & Flutter<br>📫 email: pushpanshuranjansingh@gmail.com
 
 
 ## 🌐 Socials:
